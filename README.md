@@ -2,11 +2,11 @@ This challenge works with a custom-designed markup language HRML. In HRML, each 
 
 The opening tags follow the format:
 
-<tag-name attribute1-name = "value1" attribute2-name = "value2" ...>
+*<tag-name attribute1-name = "value1" attribute2-name = "value2" ...>*
 
 The closing tags follow the format:
 
-</tag-name>
+*</tag-name>*
 
 The attributes are referenced as:
 
